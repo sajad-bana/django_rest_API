@@ -1,0 +1,19 @@
+1. create a repo
+git init
+
+2. Remote to github repo
+git remote add origin https://github.com/sajad-bana/django_rest_API.git
+
+3 . Add all file inti git
+git add .
+
+4. commit
+git commit -m "first commit, start project"
+
+5. push into github
+git push origin main
+    - username github
+    - token github ->"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"
+
+6. finish
+
